@@ -1,0 +1,16 @@
+{
+	"fields": [
+		"prediction",
+		"probability"
+	],
+	"values": [
+		[
+			"Iris-virginica",
+			[
+				0,
+				0.12009803921568629,
+				0.8799019607843137
+			]
+		]
+	]
+}
